@@ -13,22 +13,16 @@ npm install --save @react-corekit/use-idle
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import { useMyHook } from '@react-corekit/use-idle'
+import { useIdle } from "@react-corekit/use-idle";
 
 const Example = () => {
-  const example = useMyHook()
-  return (
-    <div>{example}</div>
-  )
-}
+  const isIdle = useIdle({ timeToIdle: 1000 });
+  return <div>{isIdle ? "Are you still there?" : "Yes, you are here"}</div>;
+};
 ```
 
 ## License
 
 MIT © [glongh](https://github.com/glongh)
-
----
-
-This hook is created using [create-react-hook](https://github.com/hermanya/create-react-hook).
