@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/@react-corekit/use-idle/static/css/main.2c6a48fe.chunk.css",
+    "main.js": "/@react-corekit/use-idle/static/js/main.34dc6392.chunk.js",
+    "main.js.map": "/@react-corekit/use-idle/static/js/main.34dc6392.chunk.js.map",
+    "runtime-main.js": "/@react-corekit/use-idle/static/js/runtime-main.33af30df.js",
+    "runtime-main.js.map": "/@react-corekit/use-idle/static/js/runtime-main.33af30df.js.map",
+    "static/js/2.03d91ed5.chunk.js": "/@react-corekit/use-idle/static/js/2.03d91ed5.chunk.js",
+    "static/js/2.03d91ed5.chunk.js.map": "/@react-corekit/use-idle/static/js/2.03d91ed5.chunk.js.map",
+    "index.html": "/@react-corekit/use-idle/index.html",
+    "precache-manifest.41b46caa02abd0b86565454e395c2fee.js": "/@react-corekit/use-idle/precache-manifest.41b46caa02abd0b86565454e395c2fee.js",
+    "service-worker.js": "/@react-corekit/use-idle/service-worker.js",
+    "static/css/main.2c6a48fe.chunk.css.map": "/@react-corekit/use-idle/static/css/main.2c6a48fe.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33af30df.js",
+    "static/js/2.03d91ed5.chunk.js",
+    "static/css/main.2c6a48fe.chunk.css",
+    "static/js/main.34dc6392.chunk.js"
+  ]
+}
