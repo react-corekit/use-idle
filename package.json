@@ -1,12 +1,16 @@
 {
   "name": "@react-corekit/use-idle",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Detecting when the user becomes inactive (idle) or active",
-  "author": "glongh",
+  "author": "Gaston Longhitano",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "glongh/@react-corekit/use-idle"
+    "url": "https://github.com/react-corekit/use-idle.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "main": "dist/index.js",
   "module": "dist/index.es.js",
@@ -67,9 +71,6 @@
     "rollup-plugin-node-resolve": "^4.0.0",
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-url": "^2.1.0"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "dependencies": {
     "activity-detector": "^3.0.0"
