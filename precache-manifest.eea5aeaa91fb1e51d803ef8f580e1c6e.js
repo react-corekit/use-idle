@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7fb3f48b94814de55ba5c6a91cdbdf3d",
+    "revision": "79bd991f27b530b5072f9d80b6dbcb1e",
     "url": "/use-idle/index.html"
   },
   {
-    "revision": "1f70ed31e7945848a5af",
+    "revision": "466112422ae3f8f44a7a",
     "url": "/use-idle/static/css/main.2c6a48fe.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/use-idle/static/js/2.03d91ed5.chunk.js"
   },
   {
-    "revision": "1f70ed31e7945848a5af",
-    "url": "/use-idle/static/js/main.34dc6392.chunk.js"
+    "revision": "466112422ae3f8f44a7a",
+    "url": "/use-idle/static/js/main.5d81d51a.chunk.js"
   },
   {
     "revision": "2e9871b845389687928d",
