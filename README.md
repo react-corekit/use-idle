@@ -40,6 +40,8 @@ Activity detector allows you to configure some parameters:
 - `ignoredEventsWhenIdle`: list of events to ignore in idle state. By default: `['mousemove']`
 - `initialState`: can be `"idle"` or `"active"` (`"active"` by default)
 
+> Visit: https://react-corekit.github.io/use-idle/ for a minimalistic live demo (Including _mousemove_ event).
+
 ## Additional documentation
 
 [Activity Detector Reference](https://github.com/tuenti/activity-detector/blob/master/README.md)
