@@ -1,6 +1,6 @@
 {
   "name": "@react-corekit/use-idle",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Detecting when the user becomes inactive (idle) or active",
   "author": "Gaston Longhitano",
   "license": "MIT",
