@@ -10,10 +10,14 @@
 npm install --save @react-corekit/use-idle
 ```
 
+```bash
+yarn add @react-corekit/use-idle
+```
+
 ## Usage
 
 ```jsx
-import React, { Component } from "react";
+import React from "react";
 
 import { useIdle } from "@react-corekit/use-idle";
 
